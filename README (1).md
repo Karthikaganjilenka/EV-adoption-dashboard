@@ -72,7 +72,3 @@ Data preprocessing was handled in Python using Pandas. All six interactive visua
 **Course:** CIS 671 — Information Visualization, Grand Valley State University  
 **Instructor:** Prof. Haoyu Li
 
-| Name | Visualizations |
-|---|---|
-| Karthika Ganjilenka | Line chart, multi-line chart, grouped bar chart |
-| Devendhar Sangraj | Donut charts, choropleth map, bar chart |
