@@ -67,8 +67,6 @@ Data preprocessing was handled in Python using Pandas. All six interactive visua
 
 ---
 
-## Team
-
 **Course:** CIS 671 — Information Visualization, Grand Valley State University  
 **Instructor:** Prof. Haoyu Li
 
